@@ -5,8 +5,18 @@
  * @author Phil
  *
  */
+
+
 public class Euler424 {
 
+	EulerParser parser;
+	
+	public Euler424()
+	{
+		
+	}
+	
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
